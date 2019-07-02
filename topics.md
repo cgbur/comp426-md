@@ -5,6 +5,9 @@ This is the test page for the topics page.
 Hopefully Aaron can see this and approves of
 this approach to managing our markdown content.
 
+[Here](https://github.com/cgburgess/comp426-md) is a link to the github. I have added
+as a collaborator. 
+
 1. I like it
 2. it is cool.
 3. and easier to write in than html
