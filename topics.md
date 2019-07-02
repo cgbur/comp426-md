@@ -25,6 +25,15 @@ github markdown editor. Click the pencil icon.
 | alignment | ✔ |
 | wewt      | ✔ |
 
+### Code
+Here I am trying to test whether or not code will work.
+```javascript
+let i = 4;
+while (i < 10) {
+    i++;
+}
+```
+
 ### TODO
 I am going to convert the topics html to markdown and then start working
 on the assignments. 
