@@ -13,6 +13,12 @@ this approach to managing our markdown content.
     3. Way more write-able. 
 4. We never have to touch the server files.
 
+| Feature   | Support |
+| --------- | ------- |
+| tables    | ✔ |
+| alignment | ✔ |
+| wewt      | ✔ |
+
 ### TODO
 I am going to convert the topics html to markdown and then start working
 on the assignments. 
