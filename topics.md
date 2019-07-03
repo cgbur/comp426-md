@@ -3,11 +3,6 @@
   
 
 Here you can find a list of all the topics that are relevant to this course. Not everything on this list will be covered in class or required to learn. This information is for purely for your benefit. If you are interested in doing serious web development you should try to familiarize yourself with most of the topics below.
-
-```javascript
-let i = test;
-```
-
   
 
 ## Installing Required Software
