@@ -1,0 +1,12 @@
+This is simply a placeholder that will allow us to navigate the assignment lists.
+- [Assignment 0](assignments/a00)
+- [Assignment 1](assignments/a01)
+- [Assignment 2](assignments/a02)
+- [Assignment 3](assignments/a03)
+- [Assignment 4](assignments/a04)
+- [Assignment 5](assignments/a05)
+- [Assignment 6](assignments/a06)
+- [Assignment 7](assignments/a07)
+- [Assignment 8](assignments/a08)
+- [Assignment 9](assignments/a09)
+- [Assignment 10](assignments/a10)
