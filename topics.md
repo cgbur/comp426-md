@@ -6,9 +6,9 @@ Here you can find a list of all the topics that are relevant to this course. Not
 To be a successful web developer in COMP 426, you'll need to install some software on your computer.
 The software installation process is slightly different if you have a Mac or a PC.
 
-[Follow this guide](/topics/software-pc.md) if you have a PC running Windows.
+[Follow this guide](/topics/software-pc) if you have a PC running Windows.
 
-[Follow this guide](/topics/software-mac.md) if you have an Apple Mac running OSX.
+[Follow this guide](/topics/software-mac) if you have an Apple Mac running OSX.
 
 
 ## 2. Getting Started in COMP 426
