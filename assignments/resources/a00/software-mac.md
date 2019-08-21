@@ -1,4 +1,4 @@
-# Software Setup for Windows
+# Software Setup for Mac
 To be a successful web developer in COMP 426, you'll need to install some software on your computer.
 Follow the guide on this page if you have a Windows computer.
 
