@@ -16,11 +16,11 @@ A short video no longer than 5 minutes showing off the functionality of the webs
 These requires must be met in order to guarantee your 40%. How well you implement the following is part of your design.
 
 1. autocomplete - debouncing
-2. **user accounts with login (username/email and password) and signup**
+2. user accounts with login (username/email and password) and signup
 3. create read update delete resources from your database
 4. depend on a dynamic data source (your backend) and not solely on static content.
 5. Use puiblic/private/and user specific data
-6. Employ a 3rd party api
+6. employ a 3rd party api
 
 	
 ### 30% Design 
