@@ -1,11 +1,18 @@
 
 # 426 Final Project Rubric
 
+## Final
+
 ### 15% Presentation / Expo
+
+TODO
 This portion of your grade will come from you attending the expo at the end of the semester. This will be held during the final exam time. More details will be given about this towards the end of the semester. 
 
 ### 15% Video
 A short video no longer than 5 minutes showing off the functionality of the website. Think of this video as a pitch to convince us (some company or whomever your target audience is) that we should choose your website/product.
+
+TODO
+Explain your audience, the problem the audience has, how the app solves the problem.
 
 - Pitch with functionality demo
 - Audience customer base
@@ -29,3 +36,7 @@ Does the website look and behave well? This is not only the aesthetic appearance
 - UX
 - UI
 
+## Proposal
+
+TODO
+A typed, half a page, single spaced write up describing the application and which elements of it do you plan on satisfying the parts of the rubric. You should have a mock up of what the website structure will be. 
