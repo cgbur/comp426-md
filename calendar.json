@@ -1,0 +1,75 @@
+[{
+  "title": "FDOC",
+  "date": "2019-8-20",
+  "allDay": true,
+  "backgroundColor": "#008000",
+  "borderColor": "#008000"
+}, {
+  "title": "Labor Day",
+  "date": "2019-9-2",
+  "allDay": true,
+  "backgroundColor": "#008000",
+  "borderColor": "#008000"
+}, {
+  "title": "Group Sign Up Due",
+  "date": "2019-9-20",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Groups Announced",
+  "date": "2019-9-30",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Proposal Due",
+  "date": "2019-10-12",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Fall Break",
+  "start": "2019-10-17",
+  "end": "2019-10-21",
+  "allDay": true,
+  "backgroundColor": "#008000",
+  "borderColor": "#008000"
+}, {
+  "title": "Mock-up Due",
+  "date": "2019-10-31",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Midterm",
+  "date": "2019-11-7",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Thanksgiving Break",
+  "start": "2019-11-27",
+  "end": "2019-12-2",
+  "allDay": true,
+  "backgroundColor": "#008000",
+  "borderColor": "#008000"
+}, {
+  "title": "LDOC",
+  "date": "2019-12-4",
+  "allDay": true,
+  "backgroundColor": "#008000",
+  "borderColor": "#008000"
+}, {
+  "title": "Project Video Due",
+  "date": "2019-12-10",
+  "allDay": true,
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}, {
+  "title": "Final Exam",
+  "start": "2019-12-12T16:00:00.000Z",
+  "end": "2019-12-12T19:00:00.000Z",
+  "backgroundColor": "#CB9400",
+  "borderColor": "#CB9400"
+}]
