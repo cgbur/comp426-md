@@ -38,3 +38,7 @@ You will have to sign up for an account, but it is totally free. You should comp
 2. For those of you who just want to read things I'd check out TutorialsPoint's pages on [HTML](https://www.tutorialspoint.com/html/index.htm) and [CSS](https://www.tutorialspoint.com/css/index.htm). I don't think the CSS one is very good and you would be better off with the Code Academy one.
 
 3. Another option is reading the W3 guides [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp).
+
+## Assessment
+
+We will be releasing a short Gradescope quiz in the coming weeks that you will be expected to take as proof of knowledge of HTML and CSS. A Sakai announcement will be sent and it will be mentioned in class when it is available.
